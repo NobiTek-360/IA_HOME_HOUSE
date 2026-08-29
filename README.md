@@ -21,7 +21,7 @@ Este projeto implementa um **sistema NLU com arquitetura baseada em Transformer*
 - **Detecção de intenções desconhecidas** (UNKNOWN) com base em confiança e margem.
 - **Pipeline de treinamento flexível** com suporte a *fine-tuning*, *resume* e expansão de vocabulário.
 
-O modelo foi treinado com um dataset próprio (`dataset_compact.json`) e aprimorado com um **dataset de contexto** (`context_dataset.json`) que fornece variações linguísticas ricas. So irá incluir na próxima versão do projeto 🤝.
+O modelo foi treinado com um dataset próprio (`dataset_compact.json`) e aprimorado com um **dataset de contexto** (`grammar_dataset.json`) que fornece variações linguísticas ricas. Só irá incluir na próxima versão do projeto 🤝.
 
 ---
 
@@ -44,7 +44,7 @@ O modelo foi treinado com um dataset próprio (`dataset_compact.json`) e aprimor
 ### 1. Pré‑requisitos
 
 - Python 3.8 ou superior
-- PyTorch 2.0+ (ou versão compatível com sua GPU)
+- PyTorch (versão compatível com sua CPU ou GPU, roda em cpu de 2011)
 - Bibliotecas listadas em `requirements.txt`
 
 ### 2. Instalação
