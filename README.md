@@ -50,6 +50,6 @@ O modelo foi treinado com um dataset próprio (`dataset_compact.json`) e aprimor
 ### 2. Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/NobiTek-360/IA_HOME_HOUSE/
 cd seu-repositorio
 pip install -r requirements.txt
