@@ -1,7 +1,7 @@
 # IA_HOME_HOUSE
 IA pequena para automação residencial ou classificação de mapeamento de contexto falado por voz ou por escrito.
 
-# Observação importante 📢: ele funciona razoavelmente bem quando é treinado mas erra bastante na generalização final, com frases que não viu no treinamento.
+# Observação importante 📢: ele funciona razoavelmente bem quando é treinado porém era nas intenções textual na generalização final, com frases que não viu no treinamento.
 
 # Use só para teste é aprendizado de inteligência artificial.
 
