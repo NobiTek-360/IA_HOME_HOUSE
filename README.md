@@ -36,7 +36,7 @@ O modelo foi treinado com um dataset próprio (`dataset_compact.json`) e aprimor
 
 ---
  - Inclui também o gerador de banco de dados "Gerador_nlu_profissional.py" artificial use ele para gerar o banco de dado principal para treinar o modelo.
- - Também inclui o Infer_NLU_cont_especializado.py, ele será usado para fazer a interferência do arquivo binário depois de treinar, ou também durante o treinamento, já que o sistema vai salvando a cada melhora do um arquivo binário já pronto para uso.
+ - Também inclui o Infer_NLU_cont_especializado.py, ele será usado para fazer a interferência do arquivo binário depois de treinar, ou também durante o treinamento, já que o sistema vai salvando a cada melhora um arquivo binário será salvo pronto para uso.
 
 
 ## 🚀 Como usar
