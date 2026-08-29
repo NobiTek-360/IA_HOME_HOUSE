@@ -1,6 +1,11 @@
 # IA_HOME_HOUSE
 IA pequena para automação residencial ou classificação de mapeamento de contexto falado por voz ou por escrito.
 
+# Observação importante 📢: ele funciona razoavelmente bem quando é treinado mas erra bastante na generalização final, com frases que não viu no treinamento.
+
+# Use só para teste é aprendizado de inteligência artificial.
+
+
 # 🏠 NLU Contextual para Controle de Dispositivos Domésticos
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
