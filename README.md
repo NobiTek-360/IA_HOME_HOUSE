@@ -35,7 +35,7 @@ O modelo foi treinado com um dataset próprio (`dataset_compact.json`) e aprimor
 - **Suporte a CRF** para tagging de entidades.
 
 ---
-- **Inclui também o gerador de banco de dados "Gerador_nlu_profissional.py" artificial use ele para gerar o banco de dado principal para treinar o modelo.
+ - Inclui também o gerador de banco de dados "Gerador_nlu_profissional.py" artificial use ele para gerar o banco de dado principal para treinar o modelo.
 
 
 ## 🚀 Como usar
